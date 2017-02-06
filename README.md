@@ -7,8 +7,8 @@ In this project, I work on text analytics using document clustering of the NYC r
 Early results show the difference in views of two resources where the restaurant inspection watches more the equipment, area, and food standards while Amazon reviewers’ concerns are more on the taste of food and price. Combination of these aspects can provide the optimum decision making.
 
 The data source related to New York City restaurant inspections, violations, and grades can be found in:
-NYC Restaurant Inspection data
-The data of Amazon food reviews is published on SNAP.
+(https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j)
+The data of Amazon food reviews is published on SNAP (http://snap.stanford.edu/data/web-FineFoods.html).
 The Amazon Fine Food Reviews dataset consists of 568,454 food.
 The columns in the table are:
 Here are also a quick review of text analytic techniques that are used in this project:
