@@ -10,7 +10,7 @@ The data source related to New York City restaurant inspections, violations, and
 (https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j)
 The data of Amazon food reviews is published on SNAP (http://snap.stanford.edu/data/web-FineFoods.html).
 The Amazon Fine Food Reviews dataset consists of 568,454 food.
-The columns in the table are:
+
 Here are also a quick review of text analytic techniques that are used in this project:
 •	tokenizing and stemming
 •	transforming into vector space using tf-idf
